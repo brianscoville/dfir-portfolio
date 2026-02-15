@@ -1,0 +1,3 @@
+# Business Impact (Leadership View)
+
+Multiple local user accounts on a workstation intended for single-user operation increases the risk of unauthorized access, weak accountability, and delayed incident response. Execution of installers from a mapped drive (`Z:`) and evidence of USB connectivity elevates concerns around unapproved software installation and potential data movement, both of which can create compliance and IP risks in a research environment. Leadership should prioritize account governance (ownership, least privilege, and de-provisioning), restrict execution from network shares, and enforce removable media controls to reduce exposure and improve attribution during investigations.
