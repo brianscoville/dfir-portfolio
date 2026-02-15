@@ -41,7 +41,7 @@ Triage data was collected (KAPE-style structure) and analyzed offline.
 - `findings.md` — evidence, registry paths, and how each conclusion was reached
 - `mitre-mapping.md` — ATT&CK technique mapping based on observed artifacts
 - `containment-eradication.md` — what to do if this were a real incident
-- `business-impact.md` — leadership-focused impact paragraph (MBA layer)
+- `business-impact.md` — leadership-focused impact paragraph (MBA)
 - `evidence/` — supporting screenshots (sanitized)
 
 ## Notes / Ethics
